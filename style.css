@@ -7,17 +7,21 @@ color:aliceblue
 header{
 background-color: rgba(247, 247, 247, 0);
 height: 35px;
-width: 100%;
 margin-left:-20px;
 margin-right:-20px
+}
+
+header h3{
+   padding-left: 15px;
+color:blue;
+text-align: center;
+
 
 
 
 
 
 }
-
-
 
 
 
