@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Diplomata&display=swap');
 body {
    background-color: rgb(0, 0, 0);
    color: aliceblue;
@@ -9,9 +10,18 @@ header {
    padding: 10px;
    border-bottom: 10px solid rgb(255, 255, 255);
    font-size: 25px;
+   text-decoration: none;
+   display:flex;
+   justify-content: space-between;
+   align-items: center;
+
 }
 
 header h3 {
+   font-family: "Diplomata", serif;
+  font-weight: 400;
+  font-style: normal;
+  
    padding-left: 15px;
    color: rgb(255, 255, 255);
    text-align: center;
