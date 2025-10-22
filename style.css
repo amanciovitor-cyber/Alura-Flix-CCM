@@ -35,3 +35,19 @@ padding: 0;
 display: flex;
 
 }
+nav  ul li{
+margin-left: 20px;
+font-size: 20px;
+
+}
+header nav ul li a{
+color:aliceblue;
+ text-decoration: none;
+ transition: color 0,5s;
+
+}
+header nav ul li a:hover{
+  color:aqua;
+
+
+}
