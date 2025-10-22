@@ -26,9 +26,12 @@ header h3 {
    color: rgb(255, 255, 255);
    text-align: center;
    font-size: 30px;
+}
 
-
-
-
+nav ul{
+ list-style: none;
+margin: 0;
+padding: 0;
+display: flex;
 
 }
